@@ -1,0 +1,2 @@
+# coredome
+go server
